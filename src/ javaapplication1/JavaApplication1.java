@@ -19,7 +19,7 @@ public class JavaApplication1 {
         System.out.println("prueba dos exitosa  ");
         
         
-        System.out.println("prueba tres exitosa 24");
+        
     
         
         System.out.println("prueba dos exitosa modificacion 13");
